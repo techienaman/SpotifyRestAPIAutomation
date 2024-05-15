@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0967f80c-1826-4753-97eb-1825b1a2a869" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredd/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredd/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredd/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredd/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredd/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredd/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredd/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredd/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredd/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredd/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredd/src/test/java/com/rest/NonStaticImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumSwitchPractice/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumSwitchPractice/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumSwitchPractice/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumSwitchPractice/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumSwitchPractice/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumSwitchPractice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumSwitchPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumSwitchPractice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumSwitchPractice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumSwitchPractice/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumSwitchPractice/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumSwitchPractice/src/test/java/org/example/SeleniumNotes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumSwitchPractice/src/test/java/org/example/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumSwitchPractice/src/test/java/org/example/mmtTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumSwitchPractice/src/test/java/org/example/rsautomation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium-docker" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/BestTimeToBuyAndSellStocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/IntersectionOfTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/KadanesAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/LeaderInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/LeftRotateAnArrayByOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/LongestConsecutiveSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/LongestSubArrayWithprefixprefixSumK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/MooreVotingAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/MoveZerosAtEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/RemoveDuplicatesFromSortedArrayInPlace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/SecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/StringBasedQuestions/CheckIfStringIsPalindromeOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/StringBasedQuestions/CheckValidParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/StringBasedQuestions/CheckifStringPalindromeOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/StringBasedQuestions/IsStringRotationOfEachOtherOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/StringBasedQuestions/ReversewordinaGivenString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/TwoSumProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/UnionOfTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/checkIfArrayIsSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/largestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/leftRotateByN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice1/IntersectionOfTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice1/KadanesAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice1/MooreVotingAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice1/MoveZerosAtEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice1/SecondLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice1/anchal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice1/checkIfArrayIsSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice1/largestElementOfAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice1/leftRotateAnArrayByOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice1/leftRotateByN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice2/CountPairsWithGivenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice2/CountTheOccurenceOfElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice2/IntersectionOfTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice2/LargestSumContigiousSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice2/MinimumNumberOfJumpsToReachEndOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice2/NMeetingsIn1room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice2/StringPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice2/TripletSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice2/leftRotateAnArrayByOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice2/pivotElementInRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/src/practice2/secondLargestElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeUForward/takeUForward.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2elWJGiwiuIZRcolnR69L2julyM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0967f80c-1826-4753-97eb-1825b1a2a869" name="Changes" comment="" />
+      <created>1712479573472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712479573472</updated>
+    </task>
+    <servers />
+  </component>
+</project>
